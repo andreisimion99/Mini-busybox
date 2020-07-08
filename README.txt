@@ -1,0 +1,1 @@
+   The purpose of this project is to implement a utility capable of executing Linux bash commands. To solve the project you will create a Python script that receives as arguments the command to be executed, followed by its parameters. The script will execute the command after which it will end its execution.
